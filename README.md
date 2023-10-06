@@ -1,6 +1,6 @@
 # 3D-room
 
-![screencapture-maryamparvaz-github-io-men-shop-2023-09-30-09_51_06](https://github.com/maryamparvaz/men-shop/assets/124708513/802c29eb-e879-441d-ac05-e549124c2d8e)
+![efdefe](https://github.com/maryamparvaz/3D-room/assets/124708513/304bc101-79e8-4c49-a747-82d63f467a00)
 
 - [Demo Project]( https://maryamparvaz.github.io/men-shop/)
 
